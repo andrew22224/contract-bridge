@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1397980225 source:c:\users\zamamee\documents\contractbridge\src\card.cpp
+	"card.h"
+
+1397984321 c:\users\zamamee\documents\contractbridge\include\card.h
+	<ostream>
+	<string>
+
+1396146790 source:c:\users\zamamee\documents\contractbridge\src\random.cpp
+	<cstdlib>
+	<ctime>
+	"random.h"
+
+1396146844 c:\users\zamamee\documents\contractbridge\include\random.h
+
+1397984562 source:c:\users\zamamee\documents\contractbridge\src\deck.cpp
+	"deck.h"
+	"random.h"
+
+1397984478 c:\users\zamamee\documents\contractbridge\include\deck.h
+	<iostream>
+	"card.h"
+
+1397792116 source:c:\users\zamamee\documents\contractbridge\src\main.cpp
+	<iostream>
+	<iomanip>
+	"card.h"
+	"random.h"
+	"deck.h"
+	"hand.h"
+	"game.h"
+
+1397985946 source:c:\users\zamamee\documents\contractbridge\src\hand.cpp
+	"hand.h"
+
+1397984391 c:\users\zamamee\documents\contractbridge\include\hand.h
+	<list>
+	"deck.h"
+	"card.h"
+
+1396146771 source:h:\contractbridge\src\card.cpp
+	<string>
+	"card.h"
+
+1396242763 h:\contractbridge\include\card.h
+	<string>
+
+1396311117 source:h:\contractbridge\src\deck.cpp
+	<string>
+	<iostream>
+	"card.h"
+	"deck.h"
+	"random.h"
+
+1396311117 h:\contractbridge\include\deck.h
+	<string>
+	"card.h"
+
+1396146844 h:\contractbridge\include\random.h
+
+1396406801 source:h:\contractbridge\src\main.cpp
+	<iostream>
+	<iomanip>
+	"card.h"
+	"random.h"
+	"deck.h"
+	"hand.h"
+
+1396408741 h:\contractbridge\include\hand.h
+	<list>
+	"hand.h"
+	"random.h"
+	"deck.h"
+	"card.h"
+
+1396146790 source:h:\contractbridge\src\random.cpp
+	<cstdlib>
+	<ctime>
+	"random.h"
+
+1396407156 source:h:\contractbridge\src\hand.cpp
+	<list>
+	<iostream>
+	<string>
+	"hand.h"
+	"random.h"
+	"deck.h"
+	"card.h"
+
+1397867719 source:c:\users\zamamee\documents\contractbridge - copy (2)\src\card.cpp
+	"card.h"
+
+1397867973 c:\users\zamamee\documents\contractbridge - copy (2)\include\card.h
+	<ostream>
+	<string>
+
+1397867792 source:c:\users\zamamee\documents\contractbridge - copy (2)\src\deck.cpp
+	"deck.h"
+	"random.h"
+
+1397868007 c:\users\zamamee\documents\contractbridge - copy (2)\include\deck.h
+	<iostream>
+	"card.h"
+
+1396146844 c:\users\zamamee\documents\contractbridge - copy (2)\include\random.h
+
+1397792116 source:c:\users\zamamee\documents\contractbridge - copy (2)\src\main.cpp
+	<iostream>
+	<iomanip>
+	"card.h"
+	"random.h"
+	"deck.h"
+	"hand.h"
+	"game.h"
+
+1397868029 c:\users\zamamee\documents\contractbridge - copy (2)\include\hand.h
+	<list>
+	"deck.h"
+	"card.h"
+
+1396146790 source:c:\users\zamamee\documents\contractbridge - copy (2)\src\random.cpp
+	<cstdlib>
+	<ctime>
+	"random.h"
+
+1397867907 source:c:\users\zamamee\documents\contractbridge - copy (2)\src\hand.cpp
+	<iomanip>
+	"hand.h"
+
+1397827453 source:c:\users\zamamee\documents\contractbridge - copy (2)\src\game.cpp
+	"game.h"
+
+1397868043 c:\users\zamamee\documents\contractbridge - copy (2)\include\game.h
+	<iostream>
+	"deck.h"
+	"hand.h"
+
+1397804587 source:c:\users\zamamee\documents\contractbridge - copy (2)\src\bridge.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"game.h"
+
+1397972169 source:c:\users\zamamee\documents\contractbridge\src\bridge.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"game.h"
+
+1397984196 c:\users\zamamee\documents\contractbridge\include\game.h
+	<iostream>
+	"deck.h"
+	"hand.h"
+
+1397985864 source:c:\users\zamamee\documents\contractbridge\src\game.cpp
+	"game.h"
+
+1397972169 source:c:\users\zamamee\documents\contractbridge - n8581827\src\bridge.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"game.h"
+
+1397984196 c:\users\zamamee\documents\contractbridge - n8581827\include\game.h
+	<iostream>
+	"deck.h"
+	"hand.h"
+
+1397984478 c:\users\zamamee\documents\contractbridge - n8581827\include\deck.h
+	<iostream>
+	"card.h"
+
+1397984321 c:\users\zamamee\documents\contractbridge - n8581827\include\card.h
+	<ostream>
+	<string>
+
+1397984391 c:\users\zamamee\documents\contractbridge - n8581827\include\hand.h
+	<list>
+	"deck.h"
+	"card.h"
+
+1397980225 source:c:\users\zamamee\documents\contractbridge - n8581827\src\card.cpp
+	"card.h"
+
+1397984562 source:c:\users\zamamee\documents\contractbridge - n8581827\src\deck.cpp
+	"deck.h"
+	"random.h"
+
+1396146844 c:\users\zamamee\documents\contractbridge - n8581827\include\random.h
+
+1397985864 source:c:\users\zamamee\documents\contractbridge - n8581827\src\game.cpp
+	"game.h"
+
+1397985987 source:c:\users\zamamee\documents\contractbridge - n8581827\src\hand.cpp
+	"hand.h"
+
+1396146790 source:c:\users\zamamee\documents\contractbridge - n8581827\src\random.cpp
+	<cstdlib>
+	<ctime>
+	"random.h"
+
